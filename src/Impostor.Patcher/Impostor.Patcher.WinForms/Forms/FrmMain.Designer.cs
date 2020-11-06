@@ -56,8 +56,8 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(225, 91);
             this.label2.TabIndex = 0;
-            this.label2.Text = "Добро пожаловать в Impostor\r\n\r\nВведите снизу IP адрес сервера \r\nПрограмма" +
-    "перенастроит для вас регион внутри игры\r\n\r\nЕсли вы хотите прекратить играть на сервере, \r\nвыберите другой регион" +
+            this.label2.Text = "Добро пожаловать в Impostor\r\n\r\nВведите снизу IP адрес сервера \r\nПрограмма " +
+    "перенастроит для вас регион\r\nвнутри игры\r\n\r\nЕсли вы хотите прекратить играть на сервере, \r\nвыберите другой регион" +
     "внутри игры.";
             // 
             // buttonLaunch
@@ -92,7 +92,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(182, 13);
             this.label3.TabIndex = 6;
-            this.label3.Text = "Автор: AeonLucid. Подержка серверов в РФ: RUSH-B.ORG\r\n";
+            this.label3.Text = "Автор: AeonLucid.\r\nПодержка серверов в РФ: RUSH-B.ORG\r\n";
             // 
             // comboIp
             // 
