@@ -38,7 +38,7 @@ namespace Impostor.Patcher.WinForms.Forms
 
         private void ModifierOnSaved(object sender, SavedEventArgs e)
         {
-            MessageBox.Show("The IP Address was saved, please (re)start Among Us.", "Success",
+            MessageBox.Show("IP адрес установлен, перезайдите в игру Among Us.", "Успех!",
                 MessageBoxButtons.OK,
                 MessageBoxIcon.Information);
 
@@ -95,7 +95,7 @@ namespace Impostor.Patcher.WinForms.Forms
 
         private void lblUrl_Click(object sender, EventArgs e)
         {
-            Process.Start("https://github.com/AeonLucid/Impostor");
+            Process.Start("https://vk.com/rushborg");
         }
 
         private void RefreshComboIps()

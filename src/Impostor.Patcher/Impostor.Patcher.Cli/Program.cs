@@ -35,7 +35,7 @@ namespace Impostor.Patcher.Cli
         private static void ModifierOnSaved(object sender, SavedEventArgs e)
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("The IP Address was saved, please (re)start Among Us.");
+            Console.WriteLine("IP адрес установлен, перезайдите в игру Among Us.");
             Console.ResetColor();
         }
 

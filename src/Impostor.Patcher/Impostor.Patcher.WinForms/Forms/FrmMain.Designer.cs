@@ -46,7 +46,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(60, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "IP Address";
+            this.label1.Text = "IP адрес";
             // 
             // label2
             // 
@@ -56,9 +56,9 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(225, 91);
             this.label2.TabIndex = 0;
-            this.label2.Text = "Welcome to Impostor\r\n\r\nPlease enter in the IP Address of the \r\nserver you would l" +
-    "ike to use for Among Us\r\n\r\nIf you want to stop playing on the server, \r\nsimply s" +
-    "elect another region";
+            this.label2.Text = "Добро пожаловать в Impostor\r\n\r\nВведите снизу IP адрес сервера \r\nПрограмма" +
+    "перенастроит для вас регион внутри игры\r\n\r\nЕсли вы хотите прекратить играть на сервере, \r\nвыберите другой регион" +
+    "внутри игры.";
             // 
             // buttonLaunch
             // 
@@ -67,7 +67,7 @@
             this.buttonLaunch.Name = "buttonLaunch";
             this.buttonLaunch.Size = new System.Drawing.Size(74, 22);
             this.buttonLaunch.TabIndex = 3;
-            this.buttonLaunch.Text = "Save";
+            this.buttonLaunch.Text = "Сохранить";
             this.buttonLaunch.UseVisualStyleBackColor = true;
             this.buttonLaunch.Click += new System.EventHandler(this.buttonLaunch_Click);
             // 
@@ -81,7 +81,7 @@
             this.lblUrl.Name = "lblUrl";
             this.lblUrl.Size = new System.Drawing.Size(212, 13);
             this.lblUrl.TabIndex = 5;
-            this.lblUrl.Text = "https://github.com/AeonLucid/Impostor";
+            this.lblUrl.Text = "https://vk.com/rushborg";
             this.lblUrl.Click += new System.EventHandler(this.lblUrl_Click);
             // 
             // label3
@@ -92,7 +92,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(182, 13);
             this.label3.TabIndex = 6;
-            this.label3.Text = "Source code and latest versions at\r\n";
+            this.label3.Text = "Автор: AeonLucid. Подержка серверов в РФ: RUSH-B.ORG\r\n";
             // 
             // comboIp
             // 
